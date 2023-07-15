@@ -2,6 +2,7 @@
 - 👀 I’m interested in technologies and data processing.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on anything.
+- 🎽 Support Ukraine
 - 📫 How to reach me info@infortrod.com
 
 <!---
